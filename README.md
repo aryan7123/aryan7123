@@ -102,17 +102,18 @@ A full-stack marketplace enabling users to buy and sell verified Telegram channe
 
 **Focus:** E-commerce · Marketplace Development · Payment Workflows · Verification Systems
 
-### 3. 💬 NonStop Nanny — Real-Time Childcare Communication Platform
+### 3. 💬 RepoLens – AI Engineering Assistant for GitHub repositories
 
-[🌐 Visit Platform](https://chat.nonstopnanny.com/)
+[🌐 Visit Platform](https://repolens-ai-xi.vercel.app/)
 
-A secure communication platform connecting nanny caregivers and families through real-time messaging.
+A Full Stack AI Application that provides engineering reports for GitHub repositories
 
-- Built real-time chat functionality with PHP and vanilla JavaScript.
-- Implemented AJAX-driven messaging without full-page reloads.
-- Developed authentication and mobile-optimized user interfaces.
+- Built a full-stack tool that connects to GitHub repos and generates AI reports using Groq AI for LLM calls: PR
+review, code explanation, architecture view, test and docs generation, and debugging help.
+- Developed the FastAPI backend with JWT auth, password reset by email, and Redis, plus a Next.js/TypeScript
+frontend with protected routes and a live dashboard.
 
-**Focus:** Real-Time Communication · PHP · JavaScript · AJAX
+**Focus:** FastAPI · AI/LLM
 
 ### 4. 🤝 Meetlyr — Matchmaking & Event Platform
 
